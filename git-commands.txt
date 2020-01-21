@@ -1,0 +1,21 @@
+GIT
+---- 
+git init
+git add
+git status
+git commit -a -m "commit message"
+git log
+git history
+git tag
+git checkout
+git merge branchname
+git pull
+git clone
+git push
+git fetch = git pull + git merge
+git rebase
+
+ssh-keygen
+ssh -T git @github.com
+
+Git is a versioning system developed by Linus Torvalds
